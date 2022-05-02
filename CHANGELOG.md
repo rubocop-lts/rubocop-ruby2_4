@@ -13,7 +13,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Removed
 
-## [1.0.0] 2022-04-30
+## [1.0.1] 2022-05-02
+### Added
+* Documentation
+
+### Changed
+
+### Fixed
+
+### Removed
+
+## [1.0.0] 2022-05-01
 ### Added
 * Initial release
 
@@ -23,5 +33,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Removed
 
-[Unreleased]: https://github.com/rubocop-semver/rubocop-ruby2_4/compare/v1.0.0...HEAD
+[Unreleased]: https://github.com/rubocop-semver/rubocop-ruby2_4/compare/v1.0.1...HEAD
+[1.0.1]: https://github.com/rubocop-semver/rubocop-ruby2_4/compare/v1.0.0...v1.0.1
 [1.0.0]: https://github.com/rubocop-semver/rubocop-ruby2_4/compare/69576e0c1884ab3c773394b5f30a9ebafe11a2a7...v1.0.0
