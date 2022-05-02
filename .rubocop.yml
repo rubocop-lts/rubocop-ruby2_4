@@ -1,8 +1,7 @@
 inherit_from: .rubocop_todo.yml
 
-AllCops:
-  TargetRubyVersion: 2.4
-  NewCops: enable
+inherit_gem:
+  rubocop-ruby2_4: rubocop.yml
 
 Style/StringLiterals:
   Enabled: true
