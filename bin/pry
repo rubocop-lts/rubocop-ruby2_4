@@ -23,6 +23,7 @@ end
 
 require "rubygems"
 require "bundler/setup"
+require "rubocop/ruby2_4"
 
 require "pry-suite"
 
