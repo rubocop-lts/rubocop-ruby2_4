@@ -1,13 +1,5 @@
 {
-  ".simplecov:3770652107": [
-    [37, 19, 1, "Style/TrailingCommaInArrayLiteral: Avoid comma after the last item of an array.", 177545],
-    [50, 12, 1, "Style/TrailingCommaInArguments: Avoid comma after the last parameter of a method call.", 177545],
-    [63, 44, 1, "Style/TrailingCommaInArrayLiteral: Avoid comma after the last item of an array.", 177545]
-  ],
-  "Rakefile:388436171": [
-    [27, 20, 1, "Style/TrailingCommaInArrayLiteral: Avoid comma after the last item of an array.", 177545]
-  ],
-  "rubocop-ruby2_4.gemspec:3484000078": [
-    [23, 32, 8, "Gemspec/RequiredRubyVersion: `required_ruby_version` and `TargetRubyVersion` (2.4, which may be specified in .rubocop.yml) should be equal.", 484936141]
+  "rubocop-ruby2_4.gemspec:3409756398": [
+    [19, 32, 10, "Gemspec/RequiredRubyVersion: `required_ruby_version` and `TargetRubyVersion` (2.4, which may be specified in .rubocop.yml) should be equal.", 4072499287]
   ]
 }
