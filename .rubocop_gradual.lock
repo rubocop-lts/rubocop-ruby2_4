@@ -1,5 +1,8 @@
 {
-  "rubocop-ruby2_4.gemspec:4084094976": [
+  "gemfiles/modular/style_local.gemfile:2349284340": [
+    [71, 23, 20, "Style/SafeNavigation: Use safe navigation (`&.`) instead of checking if an object exists before calling the method.", 1851388465]
+  ],
+  "rubocop-ruby2_4.gemspec:3730523020": [
     [19, 32, 10, "Gemspec/RequiredRubyVersion: `required_ruby_version` and `TargetRubyVersion` (2.4, which may be specified in .rubocop.yml) should be equal.", 4072499287]
   ],
   "spec/rubocop/ruby2_4/version_spec.rb:2665233203": [
